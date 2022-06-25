@@ -2,12 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Jagat jeeban Basantia</h1>
-<h3 align="center">Data scientist</h3>
+<h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://intellipaat.com/mediaFiles/2015/11/e42cce_756b090fe40548eda9148fd5599980bb_mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagat9&label=Profile%20views&color=0e75b6&style=flat" alt="jagat9" /> </p>
 
-- 🔭 I’m currently working on [H&M personalized fashion recommendation](https://www.kaggle.com/jagatjeeban)
+- 🔭 I’m currently working on [Advance SQL and working on some cool projects ](https://www.kaggle.com/jagatjeeban)
 
 - 🌱 I’m currently learning **Computervision, Drone**
 
