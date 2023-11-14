@@ -7,17 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagat9&label=Profile%20views&color=0e75b6&style=flat" alt="jagat9" /> </p>
 
-- 🔭 I’m currently working on [Advance SQL and working on some cool projects ](https://www.kaggle.com/jagatjeeban)
+- 🔭 I’m currently working on [Tableau and Python](https://www.kaggle.com/jagatjeeban)
 
-- 🌱 I’m currently learning **Computervision, Drone**
+- 🌱 I’m currently learning **Machine learning, ANN**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **ML, DL**
-
+- 💬 Ask me about **Data Analysis, SQL, Python, Tableau**
 - 📫 How to reach me **contactjeeban@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">[Linkedin](https://www.linkedin.com/in/jagatjeeban/):</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/13725492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13725492" height="30" width="40" /></a>
 <a href="https://kaggle.com/jagatjeeban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jagatjeeban" height="30" width="40" /></a>
