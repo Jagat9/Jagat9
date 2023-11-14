@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Tableau and Python](https://www.kaggle.com/jagatjeeban)
 
-- 🌱 I’m currently learning **Machine learning, ANN**
+- 🌱 I’m currently learning **Machine learning, ANN, CNN**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
