@@ -1,4 +1,4 @@
-<img align ="middle" width="900" height="300" src="![image](https://github.com/Jagat9/jagat9/assets/47893550/1e0ecbc0-f51f-417d-93bf-2f5a125f5dfe)">
+<img align ="middle" width="900" height="300" src="https://github.com/Jagat9/jagat-s_portfolio/assets/47893550/52cc9006-d446-4dd6-8938-52ba33e63e04">
 
 
 <h1 align="center">Hi 👋, I'm Jagat jeeban Basantia</h1>
