@@ -1,4 +1,4 @@
-<img align ="middle" width="900" height="300" src="https://media.itpro.co.uk/image/upload/v1570816583/itpro/2019/05/data_science_shutterstock_746652745.jpg">
+<img align ="middle" width="900" height="300" src="![giphy](https://github.com/Jagat9/jagat-s_portfolio/assets/47893550/e0201423-f7c9-414b-a746-abd3fca8839c)">
 
 
 <h1 align="center">Hi 👋, I'm Jagat jeeban Basantia</h1>
